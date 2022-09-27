@@ -7,13 +7,13 @@ basic:
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: ysbach93@gmail.com
+  phone: 
+  website: 
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: @ysBach
   gitlab:
   bitbucket:
   googlescholar:
@@ -24,26 +24,53 @@ contact:
   stackoverflow:
   quora:
   goodreads:
+  orcid: 0000-0002-2618-1124
 
 profile:
   display: true
-  title: Profile
+  title: About
   details: |
-    It's your career profile, you can wirte markdown format text.
+    I am interested in ...
     + First
     + Second
 
     ...
 
+
+
+education:
+  display: true
+  title: Education
+  items:
+    - university: Example University
+      time: 2015 - 2018
+      major: Machine Learning
+      degree: Master
+      details: |
+        Experience in this university:
+        + First
+        + Second
+
+        ...
+
+    - university: KAIST (Korea Adv. Inst. of Sci. and Tech.)
+      time: 2011 - 2016
+      major: Physics (Cum Laude)
+      degree: Bachelor
+      details: |
+        Exchange study at _Uppsala University_ (2014 Fall)
+
+        
+        
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
+    - role: 
       time: 2018.03 - 2019.03
       company: Second Company
       tag:
-      location: Beijing
+      location: Seoul
       details: |
         Experience in this company:
         + First
@@ -98,31 +125,6 @@ skills:
     - name: Skill C
       level: 70
 
-education:
-  display: true
-  title: Education
-  items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 certificates:
   display: true
