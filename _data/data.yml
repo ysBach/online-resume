@@ -1,8 +1,8 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Yoonsoo P. Bach
+  title: Astronomy Student (PhD)
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
