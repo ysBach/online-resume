@@ -62,19 +62,15 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: 
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Seoul
+    - role: LOC at Focus Meeting 8
+      time: 2022.08
+      company: IAU General Assembly 
+      tag: IAUGA
+      location: Busan, Korea
       details: |
-        Experience in this company:
-        + First
-        + Second
+        
 
-        ...
-
-    - role: Backend Developer
+    - role: 
       time: 2017.03 - 2018.03
       company: First Company
       tag: Remote, part-time
@@ -165,29 +161,31 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Korean
       level: Native
     - idiom: English
       level: Professional
+    - idiom: Japanese
+      level: Intermediate
 
-interests:
-  display: true
-  title: Interests
-  items:
-    - item: Reading
-      link:
-    - item: Cooking
-      link:
+# interests:
+#   display: true
+#   title: Interests
+#   items:
+#     - item: Reading
+#       link:
+#     - item: Cooking
+#       link:
 
-evaluation:
-  display: true
-  title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    + First
-    + Second
+# evaluation:
+#   display: true
+#   title: Self-evaluation
+#   details: |
+#     Here is my self evaluation.
+#     + First
+#     + Second
 
-    ...
+#     ...
 
 footer:
   display: true
