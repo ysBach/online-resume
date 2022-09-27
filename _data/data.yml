@@ -42,16 +42,12 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: SNU (Seoul National University)
+      time: 2016 - 
+      major: Astronomy
+      degree: MSc and PhD Integrated
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+        I mainly studied...
 
     - university: KAIST (Korea Adv. Inst. of Sci. and Tech.)
       time: 2011 - 2016
